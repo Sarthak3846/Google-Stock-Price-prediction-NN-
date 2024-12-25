@@ -1,4 +1,4 @@
-#Google stock price prediction using neural networks
+## **📈Google stock price prediction using neural networks**
 
 This project demonstrates how to use neural networks to predict Google stock prices based on historical data.By using Python and Tensorflow.
 
