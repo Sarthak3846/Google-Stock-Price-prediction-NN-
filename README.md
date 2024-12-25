@@ -17,7 +17,7 @@ We used a historical stock price dataset for Google (`GOOG.csv`). This dataset c
 - **High**: Highest price of the stock during the trading day.
 - **Low**: Lowest price of the stock during the trading day.
 - **Close**: Closing price of the stock.
-- **Volume**: Number of shares traded.0
+- **Volume**: Number of shares traded.
 dataset link:
 https://www.kaggle.com/datasets/itzusama/google-stock-market-data-2024
 
